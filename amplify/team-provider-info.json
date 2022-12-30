@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify40cb1150f8e34-staging-53907-authRole",
+      "UnauthRoleArn": "arn:aws:iam::935172690029:role/amplify-amplify40cb1150f8e34-staging-53907-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::935172690029:role/amplify-amplify40cb1150f8e34-staging-53907-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify40cb1150f8e34-staging-53907-deployment",
+      "UnauthRoleName": "amplify-amplify40cb1150f8e34-staging-53907-unauthRole",
+      "StackName": "amplify-amplify40cb1150f8e34-staging-53907",
+      "StackId": "arn:aws:cloudformation:us-east-1:935172690029:stack/amplify-amplify40cb1150f8e34-staging-53907/476288c0-8804-11ed-8f17-0ae1a1503963",
+      "AmplifyAppId": "d2sxuh75uxpid"
+    },
+    "categories": {
+      "auth": {
+        "musiccontest0182a32e": {}
+      }
+    }
+  }
+}
